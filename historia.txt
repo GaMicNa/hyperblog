@@ -1,5 +1,8 @@
 Esto es un título
 
-gamic tiene 34 años y nacio en bolivia
+Esto es un título centrado
 
-hoy hablaremos de su vida y obra maestra.
+Aquí va un párrafo con negrita, cursiva, subrayado y colores.
+
+
+Mañana nos enfocaremos en su vida laboral.
